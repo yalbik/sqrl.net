@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using sqrl.net.domain.db_objects;
 
-using sqrl.net.domain.db_objects;
-
-namespace sqrl.net.tests.db_objects_tests
+namespace sqrl.net.tests.db_objects
 {
     public class SqrlDbObjectTests
     {

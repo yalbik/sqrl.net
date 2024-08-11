@@ -13,7 +13,7 @@ namespace sqrl.net.domain.db_objects
         
         protected SqrlDbObject(string name)
         {
-            this.Name = name;
+            Name = name;
         }
         
         public override string ToString()
